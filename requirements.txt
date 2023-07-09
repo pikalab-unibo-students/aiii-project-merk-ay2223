@@ -18,4 +18,4 @@ sympy==1.12
 igraph==0.10.5
 plotly>=5.13.0
 scipy>=1.9.0
-kneed==0.8.3
+kneed==0.8.5
