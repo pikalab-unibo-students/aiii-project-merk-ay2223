@@ -8,7 +8,7 @@ skl2onnx>=1.12
 onnxruntime>=1.13.1
 tensorflow==2.14.1
 parameterized==0.9.0
-protobuf==4.25.1
+protobuf==4.25.2
 setuptools>=67.3.3
 kivy==2.3.0
 matplotlib>=3.7.0
