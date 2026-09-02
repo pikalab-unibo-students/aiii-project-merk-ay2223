@@ -14,7 +14,7 @@ kivy==2.3.0
 matplotlib>=3.7.0
 kivy-garden==0.1.5
 screeninfo==0.8.1
-sympy==1.12
+sympy==1.12.1
 igraph==0.11.4
 plotly>=5.13.0
 scipy>=1.9.0
