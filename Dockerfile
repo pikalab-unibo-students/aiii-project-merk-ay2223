@@ -1,4 +1,4 @@
-FROM python:3.12
+FROM python:3.14
 ARG PSYKE_VERSION
 EXPOSE 8888
 RUN apt update; apt install -y -q openjdk-17-jdk
